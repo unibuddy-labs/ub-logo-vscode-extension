@@ -2,6 +2,8 @@
 
 This VSCode extension replaces the default file explorer icon on the activity pane with Unibuddy Logo.
 
+![UB Logo](https://github.com/unibuddy-labs/ub-logo-vscode-extension/blob/fd379b62f4948f02f7ea689780b1646a1b3979b7/productIconSnap.png?raw=true)
+
 ## VSCode Version Compatibility
 
 `1.72.0` and onwards
