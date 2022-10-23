@@ -1,0 +1,20 @@
+{
+	"fonts": [
+		{
+			"id": "ubfonts",
+			"src": [
+				{
+					"path": "./ubLogo.woff",
+					"format": "woff"
+				}
+			],
+			"weight": "normal",
+			"style": "normal"
+		}
+	],
+	"iconDefinitions": {
+		"explorer-view-icon": {
+			"fontCharacter": "\\e900"
+		}
+	}
+}

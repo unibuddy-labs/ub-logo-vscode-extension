@@ -1,0 +1,25 @@
+{
+  "name": "ub-logo-on-activity-bar",
+  "displayName": "UB Logo",
+  "description": "Nice little UB logo on activity pane replacing the file explorer icon",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "contributes": {
+    "productIconThemes": [
+      {
+        "id": "ubIcon",
+        "label": "Unibuddy Logo",
+        "path": "./producticons/ub.json"
+      }
+    ]
+  },
+  "scripts": {
+    "generate-vsix": "npx vsce package"
+  },
+  "devDependencies": {}
+}
