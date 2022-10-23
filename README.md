@@ -1,4 +1,4 @@
-# ub-logo-on-activity-bar
+# Branding on VSCode 😉
 
 This VSCode extension replaces the default file explorer icon on the activity pane with Unibuddy Logo.
 
