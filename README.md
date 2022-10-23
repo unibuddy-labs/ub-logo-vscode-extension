@@ -18,6 +18,10 @@ Any custom product icon theme that is already installed other than default, will
 
 ## Build
 
+Before you build, look for `ub-logo-on-activity-bar-0.0.1.vsix` in the root of this repo. You could use that to install.
+
+If you want to build the extension, see below.
+
 Executing this ```npm run generate-vsix``` command from the root of this project will generate `.vsix` extension file with the following file name convention `ub-logo-on-activity-bar-x.x.x.vsix`, where `x.x.x` is the npm package version of this project.
 
 Once the `.vsix` file is built, use the following commands to install the extension.
