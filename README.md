@@ -39,3 +39,9 @@ If not, open vscode extensions folder,
 and copy all the files and folders from this repo and paste it in a folder `ub-logo-on-activity-bar-0.0.1`.
 
 Open VSCode and see `Enable` section.
+
+## Awesome Tools
+
+- [adobe express](https://express.adobe.com/sp/#)
+- [icomoon](https://icomoon.io/app/#/select)
+- [fontdrop](https://fontdrop.info/)
